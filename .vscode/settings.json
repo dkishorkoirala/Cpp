@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "**/templates/**/*.html": "html",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }
